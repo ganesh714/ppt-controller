@@ -117,8 +117,12 @@ python ppt_controller.py
 * The server listens on port 8080 by default. Ensure this port is not blocked by your firewall.
 * The ICMP firewall rule is only needed if your devices are on different networks and you have connectivity issues.
 
+
+## ✨ Author
+* Made with 💡 by Ganesh (ganesh714)
+
 ````
 
----
+
 
 
