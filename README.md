@@ -120,9 +120,4 @@ python ppt_controller.py
 
 ## ✨ Author
 * Made with 💡 by Ganesh (ganesh714)
-
 ````
-
-
-
-
