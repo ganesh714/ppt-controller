@@ -15,7 +15,7 @@ A tool to control PowerPoint presentations on your PC from your mobile device ov
 ### 1. Clone the Repository
 
 ```
-git clone <repo-url>
+git clone https://github.com/ganesh714/ppt-controller
 cd ppt-controller
 ```
 
