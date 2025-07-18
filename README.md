@@ -46,7 +46,7 @@ pip install -r server/requirements.txt
 ### 1. Clone the Repository
 
 ```
-git clone <repo-url>
+git clone https://github.com/ganesh714/ppt-controller/
 cd ppt-controller
 ```
 
